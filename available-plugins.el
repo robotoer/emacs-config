@@ -6,3 +6,6 @@
 
 ;;; To add a register a plugin:
 ;;; (register-plugin "my-plugin-folder")
+
+(register-plugin "scala-mode")
+(register-plugin "ensime/dist_2.9.2/elisp")
