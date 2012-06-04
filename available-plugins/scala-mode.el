@@ -1,0 +1,1 @@
+(register-plugin "scala-mode")

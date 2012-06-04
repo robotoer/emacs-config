@@ -1,0 +1,1 @@
+(register-plugin "ensime/dist_2.9.2/elisp")
