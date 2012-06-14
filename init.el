@@ -14,10 +14,10 @@
 (setq-default fill-column 100)
 
 ;;; Define cool functions
-(defun log-entry ()
-  "Insert an log entry header logging the current date/time"
+(defun reload-dotemacs-file ()
+  "reload your .emacs file without restarting Emacs"
   (interactive)
-  (insert (format-time-string "[Entry on %A, %B %e %Y (%r)]: ")))
+  (load-file "~/.emacs"))
 
 ;;; Load plugins
 (load "~/.emacs.d/available-plugins.el")

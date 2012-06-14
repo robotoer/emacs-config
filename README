@@ -1,1 +1,8 @@
-Clone this repository to your .emacs.d folder and make sure your .emacs file points to the initialize.el file.
+Included Features:
+
+* Ensime/scala-mode (https://github.com/aemoncannon/ensime)
+* Personal journal/log commands (try using log-open or log-entry)
+
+Setup:
+
+Clone this repository to your .emacs.d folder and make sure your .emacs file points to the init.el file.
