@@ -5,4 +5,4 @@ Included Features:
 
 Setup:
 
-Clone this repository to your .emacs.d folder and make sure your .emacs file points to the init.el file.
+Clone this repository to your .emacs.d folder and make sure your .emacs file points to the init.el file. You will also need to build the ensime package located in ~/.emacs.d/elisp/ensime/
